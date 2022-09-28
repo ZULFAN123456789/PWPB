@@ -1,0 +1,2 @@
+Konstruktor adalah method yang berfungsi untuk menginisialisasi variabel- variabel instans yang akan dimiliki oleh objek. Konstruktor ini dipanggil pada saat proses instansiasi kelas menjadi objek.
+Destructor adalah method khusus yang akan dieksekusi saat objek dihapus dari memori.
